@@ -6,7 +6,7 @@ I am a backend developer and co-founder of the Grassy project. My journey in tec
 
 ![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/FastifyLogo.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/ExpressJSLogo.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/PrismaORMLogo.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/0dd9739d678fd6cc47fa848e2d6ca86122.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/SwaggerUILogo.svg)
 
-## 💻 Projects
+## 💻 Projects I'm currently working on
 
 Digital Ecosystem "Grassy"
 
