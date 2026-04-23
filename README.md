@@ -20,7 +20,7 @@ Role: Co-founder, Backend Developer
 
 Description: А digital ecosystem that builds a transparent bridge between farmers and consumers. We are creating an innovative infrastructure where small agribusinesses gain access to large markets through “digital cooperatives,” and transactions become secure, automated, and transparent for all participants in the supply chain—from farm to table.
 
-My support and input:
+Our support and input:
 
 - Development of a fast and scalable backend using a modern tech stack (Node.js, Fastify, TypeScript). Configuration of backend-frontend interaction, where Next.js acts as a proxy layer for secure and optimized request routing.
 
