@@ -20,9 +20,9 @@ Startup project
 
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
 
-Role: Co-founder, Backend Developer
-
 Description: А digital ecosystem that builds a transparent bridge between farmers and consumers. We are creating an innovative infrastructure where small agribusinesses gain access to large markets through “digital cooperatives,” and transactions become secure, automated, and transparent for all participants in the supply chain—from farm to table.
+
+Role: Founder, Backend Developer
 
 Our support and input:
 
