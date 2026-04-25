@@ -8,6 +8,7 @@ My journey in technology began with a big dream: to make Ukraine’s agricultura
 
 ![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/FastifyLogo.svg)
 ![ExpressJS Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/ExpressJSLogo.svg)
+![Docker Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/DockerLogo.svg)
 ![PrismaORMLogo Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/PrismaORMLogo.svg)
 ![SwaggerUI Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/SwaggerUILogo.svg)
 
