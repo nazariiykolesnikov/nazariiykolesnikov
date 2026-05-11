@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov
 
-## 🚜🌾 I am a backend developer and co-founder of IT-startup Grassy 
+## 🚜🌾 I am a Junior Backend Developer and Co-founder of IT-startup Grassy 
 
 My journey in technology began with a big dream: to make Ukraine’s agricultural sector transparent and accessible to every small farmer. As a developer, I focus on building reliable and secure architecture using Node.js/TypeScript, and as a co-founder, I ensure that every line of our code brings real value to people. I believe that by combining our efforts and innovations, we can build the digital infrastructure of the future.
 
@@ -22,7 +22,7 @@ Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL
 
 Description: А digital ecosystem that builds a transparent bridge between farmers and consumers. We are creating an innovative infrastructure where small agribusinesses gain access to large markets through “digital cooperatives,” and transactions become secure, automated, and transparent for all participants in the supply chain—from farm to table.
 
-Role: Founder, Backend Developer
+Role: Junior Backend Developer, Co-founder
 
 Our support and input:
 
